@@ -1,3 +1,2 @@
 # Notes
-[Demo](https://nichteros.github.io/Notes/index.html)
-
+[Demo](https://kramarvitaliy.github.io/Notes/)
